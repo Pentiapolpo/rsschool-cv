@@ -1,0 +1,8 @@
+.container {
+    display: flex;
+}
+
+.container div {
+    min-width: 50px;
+    border: 1px solid #ff5555;
+}
